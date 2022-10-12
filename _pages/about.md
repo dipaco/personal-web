@@ -5,21 +5,21 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: left
+  image: headshot.png
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>diegopc@cis.upenn.edu</p>
+    <p>GRASP Lab</p>
+    <p>Philadelphia, PA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests include machine learning and geometric approaches to computer vision, focusing on 3D vision, shape analysis, symmetry detection, and single-image to 3D Reconstruction. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison, as well as the University of Pennsylvania. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+TODO: Add research interest with images and links.
