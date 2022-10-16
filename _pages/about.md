@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: about me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: left
   image: headshot.png
   image_circular: true # crops the image to make it circular
   address: >
-    <p>diegopc@cis.upenn.edu</p>
-    <p>GRASP Lab</p>
-    <p>Philadelphia, PA</p>
+    diegopc@cis.upenn.edu<br>
+    GRASP Lab<br>
+    Philadelphia, PA<br>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+nav_order: 0
 ---
 
 I am a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests include machine learning and geometric approaches to computer vision, focusing on 3D vision, shape analysis, symmetry detection, and single-image to 3D Reconstruction. 
 
-I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison, as well as the University of Pennsylvania. 
-
-TODO: Add research interest with images and links.
+I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison, as well as the University of Pennsylvania.

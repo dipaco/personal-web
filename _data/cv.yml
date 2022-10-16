@@ -6,94 +6,99 @@
     - name: e-mail
       value: diegopc@seas.upenn.edu
     - name: Location
-      value: Philadelphia, PA
+      value: Philadelphia, PA, USA
     - name: Languages
       value: English, Spanish (native)
+
+- title: Academic Interests
+  type: two_col_list
+  contents:
+    - Geometric computer vision
+    - 3D reconstruction
+    - Machine learning
+    - Shape analysis
+    - Physics-informed machine learning
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: National University of Colombia
+    - title: Ph.D. Computer Engineering
+      institution: National University of Colombia - Medellín
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - The topic of my Ph.D. dissertation was ¨Shape Analysis and Description Based on the Isometric Invariances of Topological Skeletonization¨. My research focused on shape analysis with applications on shape retrieval and shape classification. In my dissertation, I designed an equivariant feature descriptor to classify shapes based on the properties of their Medial Axis.
+
+        - I successfully applied the approach developed in my work to the problem of pose-invariant shape classification and retrieval in 2D and 3D. All the methods and algorithms in my Ph.D. research were designed and coded using state-of-the-art technologies including data parallelism and GPU-enabled frameworks.
+
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: M.Sc. Computer Engineering
+      institution: National University of Colombia - Medellín
+      year: 2012
       description:
-        - Description 1.
-        - Description 2.
+        - The topic of my master's thesis was ""Automatic landform classification using texture analysis on satellite images."
+    - title: B.S.E. Computer Engineering
+      institution: National University of Colombia - Medellín
+      year: 2010
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-Doctoral Researcher
+      institution: University of Pennsylvania - GRASP Lab
+      year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - My current work includes conducting and leading independent research on machine learning and geometric computer vision, shape reconstruction, video prediction, and physics-informed machine learning. I work under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</href>.
+    - title: Visiting Scholar
+      institution: University of Pennsylvania - GRASP Lab
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - I worked on deep learning and geometric computer vision research under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</href>.
+    - title: Freelance Software Developer
+      institution: Gotta Ingenieria
+      year: 2016 - 2018
       description:
+        - I designed and developed several python-based hydromorphology simulation plug-ins for ArcGIS.
+    - title: Freelance Software Developer
+      institution: Launchpad
+      year: 2016
+      description:
+        - I developed client/server mobile apps for the iOS platform in Objective C and Swift programming languages.
+    - title: Assistant Researcher
+      institution: University of Wisconsin - Laboratory for Molecular and Computational Genomics
+      year: 2014 - 2015
+      description:
+        - I conducted research on the development of new computer vision approaches for detection, sequencing, and alignment of single DNA molecules under confinement. I worked under the supervision of Dr. David C. Schwartz.
+    - title: Software Engineer
+      institution: Early Warning System of the City of Medellin (SIATA)
+      year: 2012 - 2014
+      description:
+        - I developed software tools for weather forecasting and created software to support geospatial data visualization. Additionally, I developed computer vision tools to process images generated from Doppler microwave weather radars.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Skills
+  type: two_col_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - Linux/Unix
+    - Python/Numpy/Scipy
+    - git/gitflow
+    - Matlab
+    - Pytorch/tensorflow
+    - C++/CUDA
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2012
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - <a href="https://www.colombianosune.com/content/convocatoria-enlaza-mundos">Enlazamundos Grant, Medellín - Colombia</a>
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - year: 2015
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - <a href='https://minciencias.gov.co/convocatorias/oportunidades-informacion/convocatoria-doctorados-nacionales-2015'>MinCiencias Doctoral Grant - 727-2015, Colombia</a>
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Photography, mountain biking.

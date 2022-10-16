@@ -17,10 +17,14 @@ layout: default
                   <div>
                   {% if entry.type == "list" %}
                     {% include cv/list.html %}
+                  {% elsif entry.type == "two_col_list" %}
+                    {% include cv/two_col_list.html %}
                   {% elsif entry.type == "map" %}
                     {% include cv/map.html %}
                   {% elsif entry.type == "nested_list" %}
                     {% include cv/nested_list.html %}
+                  {% elsif entry.type == "two_col_nested_list" %}
+                    {% include cv/two_col_nested_list.html %}
                   {% elsif entry.type == "time_table" %}
                    {% include cv/time_table.html %}
                   {% else %}
