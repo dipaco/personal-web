@@ -56,12 +56,12 @@
       year: 2018 - 2020
       description:
         - I worked on deep learning and geometric computer vision research under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</href>.
-    - title: Freelance Software Developer
+    - title: Software Developer
       institution: Gotta Ingenieria
       year: 2016 - 2018
       description:
         - I designed and developed several python-based hydromorphology simulation plug-ins for ArcGIS.
-    - title: Freelance Software Developer
+    - title: Software Developer
       institution: Launchpad
       year: 2016
       description:
@@ -101,4 +101,5 @@
 - title: Other Interests
   type: list
   contents:
-    - Photography, mountain biking.
+    - Photography
+    - mountain biking.
