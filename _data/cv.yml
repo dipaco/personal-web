@@ -43,19 +43,19 @@
       institution: National University of Colombia - Medellín
       year: 2010
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Post-Doctoral Researcher
       institution: University of Pennsylvania - GRASP Lab
       year: 2020 - present
       description:
-        - My current work includes conducting and leading independent research on machine learning and geometric computer vision, shape reconstruction, video prediction, and physics-informed machine learning. I work under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</href>.
+        - My current work includes conducting and leading independent research on machine learning and geometric computer vision, shape reconstruction, video prediction, and physics-informed machine learning. I work under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</a>.
     - title: Visiting Scholar
       institution: University of Pennsylvania - GRASP Lab
       year: 2018 - 2020
       description:
-        - I worked on deep learning and geometric computer vision research under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</href>.
+        - I worked on deep learning and geometric computer vision research under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</a>.
     - title: Software Developer
       institution: Gotta Ingenieria
       year: 2016 - 2018
@@ -77,6 +77,41 @@
       description:
         - I developed software tools for weather forecasting and created software to support geospatial data visualization. Additionally, I developed computer vision tools to process images generated from Doppler microwave weather radars.
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: Fall 2010 - Fall 2011
+      items:
+        - Algorithms (Teaching assistant).
+    - year: Spring 2011
+      items:
+        - Databases.
+    - year: Spring 2013
+      items:
+        - Introduction to Programming.
+    - year: Spring 2013
+      items:
+        - Web Development.
+    - year: Fall 2013
+      items:
+        - Physics Simulations and Software Engineering for Instrumentation.
+    - year: Fall 2016
+      items:
+        - Algorithms.
+    - year: Fall 2017
+      items:
+        - Computer Vision.
+
+- title: Service
+  type: list
+  contents:
+    - <a href='https://www.sciencedirect.com/journal/pattern-recognition'>Reviewer for the Elsevier's Pattern Recognition Journal.</a>
+    - <a href='https://www.icpr2022.com'>ICPR'22 Reviewer.</a> 26th International Conference on Pattern Recognition.
+    - <a href='https://conferences.miccai.org/2022/en/'>MICCAI'22 Reviewer.</a> 25th International Conference on Medical Image and Computing and Computer Assisted Intervention.
+    - <a href='https://cdnsciencepub.com/journal/cjfr'>Reviewer for the Canadian Journal of Forest Research.</a>
+    - <a href='https://miccai2021.org/en/'>MICCAI'21 Reviewer.</a> 24th International Conference on Medical Image and Computing and Computer Assisted Intervention.
+    - <a href='https://revistas.unal.edu.co/index.php/dyna'>Reviewer for Revista DYNA.</a> Engineering journal edited by the National University of Colombia.
+
 - title: Skills
   type: two_col_list
   contents:
@@ -92,11 +127,11 @@
   contents:
     - year: 2012
       items: 
-        - <a href="https://www.colombianosune.com/content/convocatoria-enlaza-mundos">Enlazamundos Grant, Medellín - Colombia</a>
+        - <a href="https://www.colombianosune.com/content/convocatoria-enlaza-mundos">Enlazamundos Scholarship, Medellín - Colombia</a>
 
     - year: 2015
       items: 
-        - <a href='https://minciencias.gov.co/convocatorias/oportunidades-informacion/convocatoria-doctorados-nacionales-2015'>MinCiencias Doctoral Grant - 727-2015, Colombia</a>
+        - <a href='https://minciencias.gov.co/convocatorias/oportunidades-informacion/convocatoria-doctorados-nacionales-2015'>MinCiencias Doctoral Scholarship - 727-2015, Colombia</a>
 
 - title: Other Interests
   type: list
