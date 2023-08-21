@@ -20,6 +20,6 @@ nav_order: 0
 ---
 
 
-I am a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests revolve around machine learning and geometric approaches to computer vision with applications in robotics. My research focuses on 3D vision, symmetry detection, 3D Reconstruction, graph neural networks, and reinforcement learning.
+I am a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests revolve around machine learning and geometric approaches to computer vision with applications in robotics. My research focuses on 3D vision, symmetry detection, 3D Reconstruction, graph neural networks, robot perception, and reinforcement learning.
 
 I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison and later at the University of Pennsylvania.
