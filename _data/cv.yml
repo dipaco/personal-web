@@ -122,8 +122,11 @@
     - Python/Numpy/Scipy
     - git/gitflow
     - Matlab
-    - Pytorch/tensorflow
+    - Pytorch/Tensorflow/JAX
     - C++/CUDA
+    - Docker/Kubernetes/SLURM
+    - Scientific Writing/LaTeX
+    - 3D Vision
 
 - title: Honors and Awards
   type: time_table
@@ -140,4 +143,4 @@
   type: list
   contents:
     - Photography
-    - mountain biking.
+    - Mountain biking.
