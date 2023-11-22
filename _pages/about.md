@@ -9,8 +9,9 @@ profile:
   image: headshot.png
   image_circular: true # crops the image to make it circular
   address: >
-    diegopc@cis.upenn.edu<br>
-    GRASP Lab<br>
+    dp3324@drexel.edu<br>
+    Department of Electrical and Computer Engineering<br>
+    Drexel University<br>
     Philadelphia, PA<br>
 
 news: true  # includes a list of news items
@@ -19,7 +20,6 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 0
 ---
 
-
-I am a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests revolve around machine learning and geometric approaches to computer vision with applications in robotics. My research focuses on 3D vision, symmetry detection, 3D Reconstruction, graph neural networks, robot perception, and reinforcement learning.
+I am currently a Postdoctoral Fellow in the Department of Electrical and Computer Engineering at Drexel University, working with professor [David K. Han](https://drexel.edu/engineering/about/faculty-staff/H/han-david/). Before joining Drexel, I was a Post-Doctoral Researcher at the University of Pennsylvania, working under the supervision of [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/). My research interests revolve around machine learning and geometric approaches to computer vision with applications in robotics. My research focuses on 3D vision, symmetry detection, 3D Reconstruction, graph neural networks, robot perception, and reinforcement learning.
 
 I received my B.S., M.S., and Ph.D. degrees in Computer Engineering from the [National University of Colombia](https://medellin.unal.edu.co), in 2010, 2012, and 2020 respectively. I was a visiting researcher at the University of Wisconsin-Madison and later at the University of Pennsylvania.
