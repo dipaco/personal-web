@@ -4,9 +4,9 @@
     - name: Full Name
       value: Diego Patiño
     - name: e-mail
-      value: diegopc@seas.upenn.edu
+      value: diego.patino@uta.edu
     - name: Location
-      value: Philadelphia, PA, USA
+      value: Arlington, TX, USA
     - name: Languages
       value: English, Spanish (native)
 
@@ -47,9 +47,17 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: University of Texas at Arlington
+      year: 2024 - present      
+    - title: Post-Doctoral Fellow
+      institution: Drexel University
+      year: 2023 - 2024
+      description:
+        - Lead independent research on machine learning-based 3D acoustic localization of under-water targets. Managed and administered computer servers and other hardware necessary for developing research projects within the iMaple Lab. Mentored and supervised multiple Ph.D., Master’s, and undergraduate students.        
     - title: Post-Doctoral Researcher
       institution: University of Pennsylvania - GRASP Lab
-      year: 2020 - present
+      year: 2020 - 2023
       description:
         - My current work includes conducting and leading independent research on machine learning and geometric computer vision, shape reconstruction, video prediction, and physics-informed machine learning. I work under the supervision of <a href='https://www.cis.upenn.edu/~kostas/'>Kostas Daniilidis</a>.
     - title: Visiting Scholar
@@ -81,6 +89,9 @@
 - title: Teaching Experience
   type: time_table
   contents:
+    - year: Fall 2024 - Spring 2025
+      items:
+        - Computer Vision.
     - year: Fall 2010 - Fall 2011
       items:
         - Algorithms (Teaching assistant).
